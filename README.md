@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `mApp/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/mApp) (private). This repository is archived and kept for its history.
+
 # Atlas — Agentic App Map
 
 Atlas renders an Uno Platform app's full navigation structure as an interactive canvas, and exposes
